@@ -1,12 +1,10 @@
 <h1 align="center">Hi 👋, I'm Nabil Effina</h1>
-<h3 align="center">A passionate frontend developer</h3>
+<h3 align="center">A passionate full stack developer</h3>
 
 
 - 🔭 I’m currently working on **full stack projects using Java Spring Boot, React, and MongoDB**
 
-- 🌱 I’m currently learning **Angular**
-
-- 👨‍💻 All of my projects are available at [https://portfolio-effina.netlify.app/](https://portfolio-effina.netlify.app/)
+- 👨‍💻 All of my projects are available at [[https://portfolio-effina.netlify.app/](https://portfolio-effina.netlify.app/)](https://portfolio-nabileffina-git-master-nabil-effinas-projects.vercel.app/)
 
 - 📫 How to reach me **neffina8@gmail.com**
 
