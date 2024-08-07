@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **full stack projects using Java Spring Boot, React, and MongoDB**
 
-- 👨‍💻 All of my projects are available at [[https://portfolio-effina.netlify.app/](https://portfolio-effina.netlify.app/)](https://portfolio-nabileffina-git-master-nabil-effinas-projects.vercel.app/)
+- 👨‍💻 All of my projects are available at https://portfolio-nabileffina-git-master-nabil-effinas-projects.vercel.app/
 
 - 📫 How to reach me **neffina8@gmail.com**
 
