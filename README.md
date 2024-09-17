@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaiswaladi246&label=Profile%20views&color=0e75b6&style=flat" alt="jaiswaladi246" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/jaiswaladi246](https://github.com/jaiswaladi246](https://github.com/nabeff)
+- 👨‍💻 All of my projects are available at https://github.com/nabeff
 
-- 💬 Ask me about **DevOps & Cloud DevOps**
+- 💬 Ask me about **MERN STACK & AWS **
 
 - 📫 How to reach me 
 
