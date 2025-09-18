@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Nabil Effina</h1>
-<h3 align="center">Full Stack Developer | Next.js & React Specialist</h3>
+<h1 align="left">Hi 👋, I'm Nabil Effina</h1>
+<h3 align="left">Full Stack Developer | Next.js & React Specialist</h3>
 
----
+
 
 ### 🚀 About Me
 - Front-end developer with **3+ years of experience** building high-performance web apps.  
