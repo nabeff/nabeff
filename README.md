@@ -19,7 +19,6 @@
 ### 📫 Connect
 - Portfolio: [portfolio-nabileffina.vercel.app](https://portfolio-nabileffina.vercel.app/)  
 - LinkedIn: [linkedin.com/in/nabil-effina-b30546206](https://www.linkedin.com/in/nabil-effina-b30546206)  
-- GitHub: [github.com/nabeff](https://github.com/nabeff)  
 - Email: **neffina8@gmail.com**
 
 
