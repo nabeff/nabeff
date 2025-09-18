@@ -16,14 +16,6 @@
 
 ---
 
-### 🌟 Featured Projects
-- [**Luxury Car Club**](https://luxury-car-club.vercel.app/) – Next.js 15 + Payload CMS + MongoDB  
-- [**DP Leasing**](https://dupontleasing.vercel.app/) – CMS-powered responsive platform  
-- [**DuPont Registry Insurance**](https://www.dupontregistry.com/insurance) – Next.js 15 architecture  
-- [**MyPeeps**](https://github.com/mypeeps-org/mobile-app.git) – React Native mobile app with GraphQL  
-
----
-
 ### 📫 Connect
 - Portfolio: [portfolio-nabileffina.vercel.app](https://portfolio-nabileffina.vercel.app/)  
 - LinkedIn: [linkedin.com/in/nabil-effina-b30546206](https://www.linkedin.com/in/nabil-effina-b30546206)  
