@@ -1,18 +1,20 @@
 <h1 align="left">Hi 👋, I'm Nabil Effina</h1>
-<h3 align="left">Full Stack Developer | Next.js & React Specialist</h3>
+<h3 align="left">Full Stack Developer | Next.js · NestJS · React Native</h3>
 
 
 
 ### 🚀 About Me
-- Front-end developer with **3+ years of experience** building high-performance web apps.  
-- Specialized in **Next.js, React, TypeScript, and Payload CMS**.  
-- Passionate about clean architecture, scalable CMS, and serverless solutions on **AWS**.  
+- Full-stack developer with **3+ years of experience** building high-performance web and mobile apps.  
+- Currently building an **AI-powered coaching platform** — NestJS/PostgreSQL API, Next.js web app, and Expo/React Native mobile.  
+- Hands-on with **LLM integrations**: AI agents & chatflows (Dify, OpenAI), streaming chat, transcription pipelines, and multi-channel notifications (Courier, AWS SES).  
+- Passionate about clean architecture, scalable CMS (**Payload CMS**), and serverless solutions on **AWS**.  
 
 ---
 
 ### 🛠️ Tech Stack
-`Next.js` · `React` · `TypeScript` · `Payload CMS` · `Node.js` · `TailwindCSS` · `shadcn/ui`  
-`GraphQL` · `REST APIs` · `MongoDB` · `Prisma` · `AWS (S3, Lambda, CloudFront)` · `Docker`
+**Frontend:** `Next.js` · `React` · `React Native (Expo)` · `TypeScript` · `TailwindCSS` · `shadcn/ui`  
+**Backend:** `NestJS` · `Node.js` · `PostgreSQL` · `MongoDB` · `Zod` · `REST APIs` · `GraphQL`  
+**AI & Cloud:** `OpenAI` · `Dify` · `AWS (SES, S3, CloudWatch, Lambda)` · `Docker` · `Payload CMS` · `Clerk`
 
 ---
 
@@ -20,5 +22,3 @@
 - Portfolio: [portfolio-nabileffina.vercel.app](https://portfolio-nabileffina.vercel.app/)  
 - LinkedIn: [linkedin.com/in/nabil-effina-b30546206](https://www.linkedin.com/in/nabil-effina-b30546206)  
 - Email: **neffina8@gmail.com**
-
-
