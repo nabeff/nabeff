@@ -6,7 +6,7 @@
 ### 🚀 About Me
 - Full-stack developer with **4+ years of experience** building high-performance web and mobile apps.  
 - Currently building an **AI-powered coaching platform** — NestJS/PostgreSQL API, Next.js web app, and Expo/React Native mobile.  
-- Hands-on with **LLM integrations**: AI agents & chatflows (Dify, OpenAI), streaming chat, transcription pipelines, and multi-channel notifications (Courier, AWS SES).  
+- Hands-on with **LLM integrations**: AI coaching agents built as **Dify chatflows** (LLM/HTTP nodes, branching, error handling) wired to a NestJS backend, real-time streaming chat (SSE), and **OpenAI Whisper** transcription pipelines.  
 - Passionate about clean architecture, scalable CMS (**Payload CMS**), and serverless solutions on **AWS**.  
 
 ---
