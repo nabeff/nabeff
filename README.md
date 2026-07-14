@@ -4,7 +4,7 @@
 
 
 ### 🚀 About Me
-- Full-stack developer with **3+ years of experience** building high-performance web and mobile apps.  
+- Full-stack developer with **4+ years of experience** building high-performance web and mobile apps.  
 - Currently building an **AI-powered coaching platform** — NestJS/PostgreSQL API, Next.js web app, and Expo/React Native mobile.  
 - Hands-on with **LLM integrations**: AI agents & chatflows (Dify, OpenAI), streaming chat, transcription pipelines, and multi-channel notifications (Courier, AWS SES).  
 - Passionate about clean architecture, scalable CMS (**Payload CMS**), and serverless solutions on **AWS**.  
